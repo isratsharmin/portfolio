@@ -174,8 +174,7 @@ li{
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	padding: 2rem;
-    user-select: none;	
-	font-style: italic;
+    
 }
 .landing-text h6{
 	font-size: 2rem;
