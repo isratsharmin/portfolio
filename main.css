@@ -552,8 +552,9 @@ input[type="submit"]::hover{
 }
 @media screen and (max-width:400px){
 	
-	body.custom-background {
-		background-attachment: scroll ;
+	body {
+		overflow: hidden ;
+		background-size: 400px 570px;
 	}
 	.menu-toggler{
 		top: 2rem;
